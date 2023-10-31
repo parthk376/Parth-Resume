@@ -135,6 +135,9 @@ a:hover{
   font-size: 0.75rem;
 }
 
+.skill-row .btn{
+  margin-left: 0;
+}
 
 .contact-message{
   width: 40%;
